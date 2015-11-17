@@ -1,0 +1,17 @@
+# Ignora archivos de sistema
+.DS_Store
+Desktop.ini
+.Spotlight-V100
+.Trashes
+._*
+Thumbs.db
+
+# Ignora archivos temporales y de log
+*.log
+*.tmp
+
+#projects
+*.sublime-project
+*.sublime-workspace
+.idea
+.editorconfig
