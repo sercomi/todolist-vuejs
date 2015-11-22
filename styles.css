@@ -1,0 +1,9 @@
+.item span {
+	color: gray;
+	cursor: pointer;
+}
+
+.item .completed {
+	color: green;
+	cursor: pointer;
+}
